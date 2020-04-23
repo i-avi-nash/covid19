@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(250, 250, 250);
+}
+
+.container {
+    display        : flex;
+    align-items    : center;
+    justify-content: center;
+    flex-direction : column;
+}
+
+.image {
+    width     : 80px;
+    margin-top: 50px;
+}
+
+.content {
+    font-size: 80px;
+}
